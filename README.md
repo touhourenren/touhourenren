@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touhourenren&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touhourenren&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=touhourenren&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=touhourenren&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=touhourenren&theme=gruvbox&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=touhourenren&theme=gruvbox&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=touhourenren&theme=gruvbox&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=touhourenren&theme=gruvbox&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=touhourenren&theme=gruvbox&count_private=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=touhourenren&theme=gruvbox&utcOffset=9&count_private=true)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=touhourenren&theme=gruvbox)
